@@ -1,8 +1,5 @@
 body {
-  background-image: url(./fundo-colorido-arco-iris-aquarela_125540-151.webp);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
+  background: linear-gradient(45deg, #AB46D2, #FF6FB5, #55D8C1, #FCF69C);
 }
 
 html {
