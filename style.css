@@ -1,3 +1,14 @@
+body {
+  background-image: url(/fundo-colorido-arco-iris-aquarela_125540-151.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+html {
+  min-height: 100%;
+}
+
 .color {
   border: 1px solid black;
   display: inline-block;
@@ -36,13 +47,6 @@
 #botoes {
   text-align: center;
   margin-top: 15px;
-}
-
-body {
-  background-image: url(/fundo-colorido-arco-iris-aquarela_125540-151.webp);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
 }
 
 #title {
