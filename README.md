@@ -25,4 +25,4 @@ Projeto desenvolvido no curso da Trybe, onde foi implementado um editor de arte 
 
 ## Prévia
 
-<img src="https://github.com/tryber/sd-015-b-project-pixels-art/raw/master/art-with-pixels.gif">
+![pixelart](https://user-images.githubusercontent.com/99517204/185469128-dbd83059-cfca-4839-8704-8f93dae7248c.gif)
